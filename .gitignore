@@ -1,0 +1,11 @@
+# Personal-use downloads and local upstream clones are deliberately untracked.
+personal/
+upstream/
+
+# Rendered/generated output
+out/
+*.pdf
+*.svg
+*.png
+*.dvi
+*.log
