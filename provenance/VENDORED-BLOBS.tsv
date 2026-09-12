@@ -1,0 +1,6 @@
+local_path	upstream_repository	upstream_path	git_blob_sha
+vendor/metapost/DISCLAIMER	classic-tools/MetaPost	DISCLAIMER	2646e73ecd1eb2a4676aef36b9b2e2f49b65e794
+vendor/metapost/NOTICE	classic-tools/MetaPost	NOTICE	3116de9947116aca1fb4f7bdeefc0d0e586bddcb
+vendor/metapost/examples.mp	classic-tools/MetaPost	doc/examples.mp	0e2a8dc0a65aa450003f76113b8975d2d0a1c03d
+vendor/metapost/figs.mp	classic-tools/MetaPost	doc/figs.mp	67c86a098d1d8ecca5dbed02b12785cd8fac71e0
+vendor/metapost/mpgraph.mp	classic-tools/MetaPost	doc/mpgraph.mp	883e57067c696bb7280cec5445b1132610ce0a47
